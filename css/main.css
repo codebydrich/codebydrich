@@ -10,7 +10,7 @@ body {
 
 /***** GRID *****/
 .full-width {
-      width: 100%;
+      width: 1200px;
       margin: 0 auto;
 }
 
@@ -28,7 +28,7 @@ body {
 header {
       height: 800px;
       background: url('../img/hero.png');
-      background-size: auto;
+      background-size: cover;
 }
 
 header h1 {
